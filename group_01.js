@@ -40,7 +40,6 @@ function transformArray (employees){
     }
 
   return employeeBonuses;   //returns array of individual employee bonus arrays
-
 }
 
 // CALCULATE BONUS PERCENTAGE
